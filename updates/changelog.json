@@ -1,12 +1,16 @@
 {
   "versions": {
     "3.14.0": {
-      "title": "What's new in A350 Startup 3.14.0?",
+      "title": "A350 Startup v3.14.0 – What's New",
       "changes": [
-        "Improved aircraft startup and shutdown sequences.",
-        "Improved external power handling.",
-        "Improved cockpit sound effects.",
-        "Various fixes and improvements."
+        "Reworked the full aircraft shutdown sequence for improved accuracy.",
+        "Improved external power connection and disconnection logic.",
+        "Introducing a redesigned interface with a fresh new colour scheme.",
+        "Improved cockpit startup and shutdown behaviour.",
+        "Added a GitHub-based update notification system.",
+        "Added lots of new cockpit sound effects!",
+        "Improved update checking and version detection.",
+        "Various bug fixes and stability improvements."
       ]
     }
   }
