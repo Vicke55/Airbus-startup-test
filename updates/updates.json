@@ -1,0 +1,8 @@
+{
+  "latestVersion": "3.14.0",
+  "releaseUrl": "https://github.com/Vicke55/Airbus-startup-test/releases",
+  "changelogUrl": "https://raw.githubusercontent.com/Vicke55/Airbus-startup-test/main/updates/changelog.json",
+  "announcementsUrl": "https://raw.githubusercontent.com/Vicke55/Airbus-startup-test/main/updates/announcements.json",
+  "updateMessage": "A new version of A350 Startup is available!",
+  "enabled": true
+}
